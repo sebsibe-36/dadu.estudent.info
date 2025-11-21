@@ -1,0 +1,5 @@
+{
+  "name": "Dadu SIS",
+  "description": "A modern, role-based Student Information System featuring course management, grade tracking, attendance, and an integrated AI assistant powered by Gemini.",
+  "requestFramePermissions": []
+}
